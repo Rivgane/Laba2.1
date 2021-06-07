@@ -1,0 +1,84 @@
+Dmitriy Aleksandrovich Hvorostovsky
+1234
+1
+M
+day
+3 4 3 5 4 5 4 5 
+Tue Apr 20 13:20:43 2021
+Marycheva Maria Fedorovna
+3240
+1
+F
+evening
+4 3 3 5 5 4 3 5 
+Fri Apr 23 23:34:00 2021
+Karnitskaya Evelina Alekseevna
+1235
+1
+F
+day
+3 4 3 5 5 4 3 5 
+Thu Apr 22 12:30:21 2021
+Voevodova Anna Borisovna
+1234
+2
+F
+day
+5 5 5 5 5 5 5 5 
+Thu Apr 29 05:34:12 2021
+Kolkov Kirill Vladimirovich
+3240
+2
+M
+evening
+4 5 5 4 5 4 4 5 
+Mon Apr 26 11:10:09 2021
+Riattel Daniil Aleksandrovich
+3240
+3
+M
+evening
+3 4 3 5 5 3 4 5 
+Tue Apr 20 09:32:14 2021
+Mironov Viktor Konstantinovich
+1235
+2
+M
+day
+3 5 5 4 5 4 4 5 
+Mon Apr 26 12:03:36 2021
+Ivanov Konstantin Petrovich
+1234
+3
+M
+day
+4 4 5 5 5 4 5 4 
+Fri Apr 30 07:59:11 2021
+Potapova Ksenia Vladimirovna
+1235
+3
+F
+day
+5 5 4 5 4 4 5 4 
+Thu Apr 29 23:59:32 2021
+Morev Timofei Tarasovich
+3240
+4
+M
+evening
+5 5 4 4 5 5 5 5 
+Tue Apr 20 01:23:43 2021
+Stambrovskaya Emiliya Daniilovna 
+1234
+4
+F
+day
+5 5 4 3 5 4 5 4 
+Fri Apr 30 19:32:43 2021
+Kotov Dmitriy Fedorovich
+1235
+4
+M
+day
+3 3 3 4 4 5 4 5 
+Mon Apr 26 16:07:34 2021
